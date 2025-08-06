@@ -2,7 +2,7 @@
 Mapa 3D da Pista de Skate de Dracena – Skater XL
 Este projeto é uma recriação 3D da pista de skate localizada em Dracena, desenvolvida como mapa customizado para o Skater XL.
 
-![Preview](Dracena Skate Park.png)
+![Preview](Dracena%20Skate%20Park.png)
 
 ## Objetivos
 - Representar fielmente a pista da cidade dentro do Skater XL.
