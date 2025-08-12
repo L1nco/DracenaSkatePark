@@ -4,6 +4,10 @@ Este projeto é uma recriação 3D da pista de skate localizada em Dracena, dese
 
 ![Preview](DracenaSkatePark.jpg)
 
+## In game
+
+![Preview](mapxl.png)
+
 ## Objetivos
 - Representar fielmente a pista da cidade dentro do Skater XL.
 - Oferecer uma experiência realista para skatistas locais e jogadores.
